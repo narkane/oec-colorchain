@@ -1,0 +1,30 @@
+{
+  "name": "oec-colorchain",
+  "version": "1.0.0",
+  "description": "blockchain for storing grid location, color data, and timestamps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narkane/oec-colorchain.git"
+  },
+  "keywords": [
+    "oec",
+    "ourearth",
+    "ourearth.care",
+    "oec",
+    "blockchain",
+    "colorchain"
+  ],
+  "author": "John Thummel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/narkane/oec-colorchain/issues"
+  },
+  "homepage": "https://github.com/narkane/oec-colorchain#readme",
+  "dependencies": {
+    "sha256": "^0.2.0"
+  }
+}
